@@ -1,10 +1,8 @@
 " Vim color file
-" Maintainer: Bruno Michel <bmichel@menfin.info>
-" Last Change: May, 30, 2008
-" Version: 0.1
-" Homepage: http://github.com/nono/github_vim_theme/tree/master
+" Maintainer: David Eisinger <http://github.com/dce>
+" Homepage: http://github.com/dce/github_vim_theme
 
-" This is a ViM's version of the github color theme.
+" This is a fork of https://github.com/nono/github_vim_theme
 
 set background=light
 hi clear
