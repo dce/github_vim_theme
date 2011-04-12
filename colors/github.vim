@@ -21,6 +21,7 @@ hi Constant           guifg=#008080
   hi Boolean          gui=bold
   hi Float            guifg=#009999
   hi RubySymbol       guifg=#990073
+  hi Title            guifg=#666666
 
 hi Identifier         guifg=#008080
   hi Function         guifg=#990000 gui=bold
